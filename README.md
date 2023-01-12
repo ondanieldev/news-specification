@@ -294,7 +294,7 @@
 
 ## Reference
 
-## General
+### General
 
 - Stack for developing this project:
   - There are a lot of stacks for building web apps, one of the most used by basic applications is the MERN stack;
